@@ -8,14 +8,14 @@ Make y los planes B y C funcionan con Figma gratis y Claude gratis. ⚠️ La ro
 
 ## El flujo: tres rondas y una entrega
 
-Cada ronda dura unos 15 minutos: el profesor arranca en pantalla, vosotros trabajáis unos 10 y paramos 3 para ver resultados (`01-brief-mint-scan.md`, «Cómo va la práctica 2»).
+Cada ronda dura unos 15 minutos: el profesor arranca en pantalla, vosotros trabajáis unos 10 y paramos 3 para ver resultados (`01-brief-mint-scan.md`, «Cómo va la práctica 2»). Solo se proyecta desde el portátil del profesor: en cada parada abre lo que hayáis pegado en **vuestro hueco del tablero de la clase** (enlace en la portada del kit).
 
 | Ronda | Dónde | Qué hacéis | Ojo con |
 |---|---|---|---|
-| **1 · Rediséñalo con Claude** | Claude, con el conector de Figma | Pegáis el prompt de la ronda 1 con **vuestro dolor** (uno por pareja, `01-brief-mint-scan.md`); Claude crea el rediseño en vuestra copia con los componentes y variables que ya existen (`02-guia-figma-claude.md`, paso 4) y lo retocáis a mano. **Un frame, un dolor. No tiene que quedar perfecto** | Pedid "sin capturas de comprobación": escribir no gasta lecturas, leer sí. Permitir una vez en cada paso |
-| **2 · Hazlo funcionar en Make** | Figma Make, en su propio chat | Copiáis **vuestro frame**, lo pegáis en el chat de Make con **un solo prompt** (el de la ronda 2, abajo) y, cuando acaba (unos 3 minutos), lo probáis con clics | Créditos (ver abajo). Modelo por defecto. Un frame por prompt. Mientras genera, apuntad qué vais a probar |
-| **3 · El cliente cambia de idea** | **El mismo chat de Make** | Le pedís el cambio del cliente a Make, no a Claude: el prototipo vive en Make | Cambiad solo lo necesario. Después, repetid un clic de antes: ¿sigue funcionando? |
-| **Entrega · 3 min** | Make y el tablero | Publicáis en Make y pegáis enlace y captura en el tablero (abajo, «Cómo publicar y compartir») | Con Figma gratis queda público en la Community: no pasa nada |
+| **1 · Rediséñalo con Claude** | Claude, con el conector de Figma | Pegáis el prompt de la ronda 1 con **vuestro dolor** (uno por pareja, `01-brief-mint-scan.md`); Claude crea el rediseño en vuestra copia con los componentes y variables que ya existen (`02-guia-figma-claude.md`, paso 4) y lo retocáis a mano. **Un frame, un dolor. No tiene que quedar perfecto.** Antes de la parada (17:32), pegáis en el tablero el enlace de vuestra copia del Figma, con permiso Ver (abajo) | Pedid "sin capturas de comprobación": escribir no gasta lecturas, leer sí. Permitir una vez en cada paso |
+| **2 · Hazlo funcionar en Make** | Figma Make, en su propio chat | Copiáis **vuestro frame**, lo pegáis en el chat de Make con **un solo prompt** (el de la ronda 2, abajo) y, cuando acaba (unos 3 minutos), lo probáis con clics. **En cuanto funcione, lo publicáis** y pegáis el enlace del prototipo en el tablero (abajo) | Créditos (ver abajo). Modelo por defecto. Un frame por prompt. Mientras genera, apuntad qué vais a probar |
+| **3 · El cliente cambia de idea** | **El mismo chat de Make** | Le pedís el cambio del cliente a Make, no a Claude: el prototipo vive en Make. Después, volvéis a publicar: el enlace es el mismo | Cambiad solo lo necesario. Después, repetid un clic de antes: ¿sigue funcionando? |
+| **Entrega · 3 min** | Make y el tablero | Publicáis la versión final, comprobáis que vuestro enlace abre en una ventana de incógnito y, si queréis, añadís una captura en vuestro hueco | Con Figma gratis queda público en la Community: no pasa nada |
 
 Claude, con el conector, **solo diseña en Figma**: lo que crea es diseño, no funciona. **Figma Make es otra herramienta**, con su propia IA, que convierte un frame en una app pequeña que funciona. Claude no maneja Make.
 
@@ -61,9 +61,22 @@ Conectad los frames con la pestaña **Prototipo** de Figma (de un botón del edi
 
 ## Cómo publicar y compartir
 
-Al acabar la ronda 3 tenéis 3 minutos para publicar y pegar en el tablero compartido: número de pareja, dolor, enlace y una captura de vuestro frame rediseñado (`01-brief-mint-scan.md`, «Qué entregáis y dónde»).
+Todo va a **vuestro hueco del tablero de la clase**, que el profesor proyecta desde su portátil (`01-brief-mint-scan.md`, «Qué entregáis y dónde»):
 
-### Figma Make, paso a paso
+| Cuándo | Qué pegáis |
+|---|---|
+| Ronda 1, antes de la parada de las 17:32 | El enlace de vuestra copia del Figma |
+| Ronda 2, en cuanto el prototipo funcione | El enlace del prototipo de Make (`.figma.site`) |
+| Ronda 3 | Nada nuevo: volvéis a publicar y el enlace es el mismo |
+| Entrega (3 min) | Versión final publicada, enlace comprobado en incógnito y, si queréis, una captura |
+
+### Ronda 1 · El enlace de vuestra copia del Figma
+
+1. En vuestra copia, pulsad **Compartir** (*Share*), arriba a la derecha.
+2. En el acceso por enlace, elegid **«Cualquiera con el enlace»** con permiso **Ver**. Con Figma gratis se puede.
+3. **Copiar enlace** y pegadlo en vuestro hueco del tablero.
+
+### Rondas 2 y 3 · Figma Make, paso a paso
 
 ⚠️ Los nombres de los botones se comprueban en el ensayo: pueden cambiar o salir en inglés.
 
@@ -73,9 +86,11 @@ Al acabar la ronda 3 tenéis 3 minutos para publicar y pegar en el tablero compa
 4. Abridla en una ventana de incógnito o en el móvil: si se ve sin iniciar sesión, está bien.
 5. Pegadla en vuestro hueco del tablero.
 
+En la ronda 3, tras el cambio, **volved a publicar** desde el mismo botón ⚠️: la dirección no cambia, así que no hace falta pegarla otra vez.
+
 Con **Education** se puede publicar 1 archivo sin pasar por la Community.
 
-Si en 3 minutos no hay manera de publicar: pegad en el tablero capturas de cada pantalla del prototipo y avisad al profesor.
+Si no hay manera de publicar: pegad en el tablero capturas de cada pantalla del prototipo y avisad al profesor.
 
 ### Las otras vías
 

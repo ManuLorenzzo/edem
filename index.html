@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vibe coding · EDEM</title>
+<meta name="description" content="Todo lo de la sesión Vibe coding con Figma Make y Claude, en una página.">
+<style>
+  :root {
+    --bg: #f7f7f5; --card: #ffffff; --ink: #1a1a1a; --mute: #6b6b6b;
+    --line: #e4e4e0; --accent: #e8533a; --accent-ink: #ffffff; --soft: #fdf0ed;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #141414; --card: #1e1e1e; --ink: #f1f1ee; --mute: #a3a3a0;
+      --line: #2e2e2c; --accent: #ff6b52; --accent-ink: #141414; --soft: #2a1d1a;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #141414; --card: #1e1e1e; --ink: #f1f1ee; --mute: #a3a3a0;
+    --line: #2e2e2c; --accent: #ff6b52; --accent-ink: #141414; --soft: #2a1d1a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 720px; margin: 0 auto; padding: 32px 16px 64px; }
+  .kicker { font-size: 12px; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
+  h1 { font-size: 30px; line-height: 1.15; margin: 8px 0 8px; }
+  .lead { color: var(--mute); margin: 0 0 28px; }
+  h2 { font-size: 13px; letter-spacing: .12em; text-transform: uppercase; color: var(--mute); margin: 32px 0 10px; }
+  ol { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+  a.item {
+    display: grid; grid-template-columns: 40px 1fr auto; align-items: center; gap: 12px;
+    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    padding: 14px 16px; color: inherit; text-decoration: none; min-height: 64px;
+  }
+  a.item:hover, a.item:focus-visible { border-color: var(--accent); outline: none; }
+  .n {
+    width: 32px; height: 32px; border-radius: 50%; background: var(--soft); color: var(--accent);
+    display: grid; place-items: center; font-weight: 700; font-size: 14px;
+  }
+  .t { font-weight: 650; }
+  .d { color: var(--mute); font-size: 14px; }
+  .arrow { color: var(--mute); font-size: 18px; }
+  .pending { opacity: .55; pointer-events: none; }
+  .pending .d::after { content: " (enlace pendiente)"; }
+  footer { margin-top: 40px; color: var(--mute); font-size: 13px; }
+  blockquote { margin: 28px 0 0; padding: 14px 16px; border-left: 3px solid var(--accent); background: var(--card); border-radius: 0 10px 10px 0; font-weight: 600; }
+</style>
+</head>
+<body>
+<main>
+  <div class="kicker">EDEM · Máster en Diseño UX/UI · 21 oct 2026</div>
+  <h1>Vibe coding con Figma Make y Claude</h1>
+  <p class="lead">Todo lo de hoy, en una página. Tenla abierta toda la tarde: cuando diga «ahora abrimos…», está aquí.</p>
+
+  <h2>Durante la clase, en este orden</h2>
+  <ol>
+    <li><a class="item" href="https://match-wrist-15901751.figma.site" target="_blank" rel="noopener">
+      <span class="n">1</span><span><span class="t">Prototipo de la demo</span><br><span class="d">Ábrelo e intenta romperlo (tienes permiso)</span></span><span class="arrow">↗</span></a></li>
+    <li><a class="item" href="https://github.com/ManuLorenzzo/edem-vibe-coding-kit/blob/main/02-guia-figma-claude.md" target="_blank" rel="noopener">
+      <span class="n">2</span><span><span class="t">Conectar Claude con Figma</span><br><span class="d">La guía paso a paso y los prompts de la práctica 1</span></span><span class="arrow">↗</span></a></li>
+    <li><a class="item" href="https://claude.ai" target="_blank" rel="noopener">
+      <span class="n">3</span><span><span class="t">Claude</span><br><span class="d">claude.ai, donde escribes para crear en tu Figma</span></span><span class="arrow">↗</span></a></li>
+    <li><a class="item" href="https://www.figma.com/design/ogBGVM8Qvr7OKLsyEIQyzd" target="_blank" rel="noopener">
+      <span class="n">4</span><span><span class="t">Figma de Mint Scan</span><br><span class="d">Duplícalo en tus borradores, con la cuenta que conectas a Claude</span></span><span class="arrow">↗</span></a></li>
+    <li><a class="item" href="https://github.com/ManuLorenzzo/edem-vibe-coding-kit/blob/main/01-brief-mint-scan.md" target="_blank" rel="noopener">
+      <span class="n">5</span><span><span class="t">El encargo</span><br><span class="d">El técnico, sus dolores y el tuyo (uno por pareja)</span></span><span class="arrow">↗</span></a></li>
+    <li><a class="item pending" id="tablero" href="#" target="_blank" rel="noopener">
+      <span class="n">6</span><span><span class="t">Tablero de la clase</span><br><span class="d">Tu hueco: aquí pegas el enlace de tu Figma y de tu prototipo</span></span><span class="arrow">↗</span></a></li>
+    <li><a class="item" href="https://github.com/ManuLorenzzo/edem-vibe-coding-kit/blob/main/03-vias-prototipo.md" target="_blank" rel="noopener">
+      <span class="n">7</span><span><span class="t">Figma Make, ronda a ronda</span><br><span class="d">Copiar el frame, el prompt, publicar y el cambio del cliente</span></span><span class="arrow">↗</span></a></li>
+    <li><a class="item" href="https://github.com/ManuLorenzzo/edem-vibe-coding-kit/blob/main/04-checklist-revision.md" target="_blank" rel="noopener">
+      <span class="n">8</span><span><span class="t">¿Qué le falta?</span><br><span class="d">Para revisar el prototipo de otra pareja (práctica 3)</span></span><span class="arrow">↗</span></a></li>
+    <li><a class="item pending" id="valoracion" href="#" target="_blank" rel="noopener">
+      <span class="n">9</span><span><span class="t">Valora la sesión</span><br><span class="d">Dos minutos, al final</span></span><span class="arrow">↗</span></a></li>
+  </ol>
+
+  <h2>Para el lunes</h2>
+  <ol>
+    <li><a class="item" href="https://github.com/ManuLorenzzo/edem-vibe-coding-kit/blob/main/07-matriz-ia.md" target="_blank" rel="noopener">
+      <span class="n">·</span><span><span class="t">Qué IA usar para cada cosa</span><br><span class="d">La matriz «Quiero X, usa Y»</span></span><span class="arrow">↗</span></a></li>
+    <li><a class="item" href="https://github.com/ManuLorenzzo/edem-vibe-coding-kit/blob/main/08-que-es-cada-cosa.md" target="_blank" rel="noopener">
+      <span class="n">·</span><span><span class="t">Qué es cada cosa</span><br><span class="d">Chatbot, asistente, automatización, agente, MCP y skill</span></span><span class="arrow">↗</span></a></li>
+    <li><a class="item" href="https://github.com/ManuLorenzzo/edem-vibe-coding-kit/blob/main/05-prompt-revision.md" target="_blank" rel="noopener">
+      <span class="n">·</span><span><span class="t">Prompt de revisión</span><br><span class="d">Pídele a Claude que revise un prototipo, y que lo demuestre</span></span><span class="arrow">↗</span></a></li>
+    <li><a class="item" href="https://github.com/ManuLorenzzo/edem-vibe-coding-kit/blob/main/06-plantilla-informe.md" target="_blank" rel="noopener">
+      <span class="n">·</span><span><span class="t">Plantilla de informe</span><br><span class="d">Qué le falta para ser una app de verdad</span></span><span class="arrow">↗</span></a></li>
+    <li><a class="item" href="https://github.com/ManuLorenzzo/edem-vibe-coding-kit" target="_blank" rel="noopener">
+      <span class="n">·</span><span><span class="t">Todo el kit</span><br><span class="d">Los ocho documentos</span></span><span class="arrow">↗</span></a></li>
+  </ol>
+
+  <blockquote>Tú diseñas y decides. Claude te asiste. Make lo hace funcionar.</blockquote>
+  <footer>Caso real (Mint Scan), datos inventados. Precios, planes y límites verificados el 19 de octubre de 2026: cambian cada mes.</footer>
+</main>
+</body>
+</html>

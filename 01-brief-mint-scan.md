@@ -113,27 +113,32 @@ Las tres alertas son a propósito. Son 16 campos de muestra: la tarjeta real tie
 
 Tres rondas de unos 15 minutos. Cada una empieza con el profesor en pantalla, sigue con vosotros trabajando y acaba con una parada de 3 minutos para ver resultados. Todo en vuestra copia del Figma de Mint Scan, página Editor, y sobre vuestro dolor.
 
+**Solo se proyecta desde el portátil del profesor.** Por eso lo que hacéis va desde el principio a **vuestro hueco del tablero de la clase** (el enlace está en la portada del kit, `README.md`): en las paradas, el profesor abre desde ahí lo que habéis pegado.
+
 | Ronda | El profesor arranca | Vosotros (unos 10 min) | Parada (3 min) |
 |---|---|---|---|
-| **1 · Rediséñalo con Claude** | Pega en pantalla el prompt del kit con un dolor y lo envía | Pegáis el prompt (`03-vias-prototipo.md`, ronda 1) con vuestro dolor: Claude crea el rediseño en vuestro Figma con el conector y lo retocáis a mano. **Un frame, un dolor. No tiene que quedar perfecto** | Dos parejas lo enseñan: ¿qué ha hecho bien Claude y qué no? |
-| **2 · Hazlo funcionar en Make** | Explica cómo se usa Figma Make y lo hace con vosotros: pega su frame en Make a la vez | Copiáis vuestro frame, lo pegáis en el chat de Make con **un solo prompt** del kit (Make tarda unos 3 minutos) y lo probáis con clics | ¿A quién le funciona? Una pareja lo enseña. Si Make falla, prototipo de Figma de siempre |
-| **3 · El cliente cambia de idea** | Os cuenta un cambio del cliente | Se lo pedís a Make **en el mismo chat**, no en Claude. Cambiad solo lo necesario | Una pareja lo enseña: ¿ha roto algo que antes funcionaba? |
+| **1 · Rediséñalo con Claude** | Pega en pantalla el prompt del kit con un dolor y lo envía | Pegáis el prompt (`03-vias-prototipo.md`, ronda 1) con vuestro dolor: Claude crea el rediseño en vuestro Figma con el conector y lo retocáis a mano. **Un frame, un dolor. No tiene que quedar perfecto.** Antes de la parada, pegad en vuestro hueco del tablero el **enlace de vuestra copia del Figma** (Compartir, «Cualquiera con el enlace», permiso **Ver**) | El profesor abre dos desde el tablero: ¿qué ha hecho bien Claude y qué no? |
+| **2 · Hazlo funcionar en Make** | Explica cómo se usa Figma Make y lo hace con vosotros: pega su frame en Make a la vez | Copiáis vuestro frame, lo pegáis en el chat de Make con **un solo prompt** del kit (Make tarda unos 3 minutos) y lo probáis con clics. **En cuanto funcione, publicadlo** y pegad el **enlace del prototipo** en vuestro hueco | ¿A quién le funciona? El profesor abre uno desde el tablero. Si Make falla, prototipo de Figma de siempre |
+| **3 · El cliente cambia de idea** | Os cuenta un cambio del cliente | Se lo pedís a Make **en el mismo chat**, no en Claude. Cambiad solo lo necesario. Después, **volved a publicar**: el enlace es el mismo, no hace falta pegarlo otra vez | El profesor abre uno desde el tablero: ¿ha roto algo que antes funcionaba? |
 
 Claude, con el conector, solo diseña en Figma. Figma Make es otra herramienta, con su propio chat, que convierte vuestro frame en una app que funciona. Por eso, después de Make, los cambios se piden en el chat de Make.
 
 El cambio de la ronda 3 lo veréis en pantalla. Es el mismo para todas las parejas: cada una lo aplica a su dolor.
 
+Cómo compartir la copia del Figma y cómo publicar en Make: `03-vias-prototipo.md`, «Cómo publicar y compartir». Con Figma gratis, publicar en Make obliga a dejarlo público en la Community de Figma: no pasa nada, los datos son inventados.
+
 ## Qué entregáis y dónde
 
 **Al acabar la ronda 3 (3 minutos):**
 
-1. **Publicad vuestro prototipo de Figma Make** y copiad su enlace (cómo se hace: `03-vias-prototipo.md`, «Cómo publicar y compartir»). Con Figma gratis, publicar obliga a dejarlo público en la Community de Figma: no pasa nada, los datos son inventados.
-2. **Pegad en vuestro hueco del tablero compartido** (FigJam, QR en la slide de entrega): número de pareja, vuestro dolor, el enlace y **una captura de vuestro frame rediseñado en Figma** (la usará la pareja que os revise para comparar).
-3. ¿El tablero no va? Mandad lo mismo por email al profesor (dirección en la slide de entrega).
+1. **Publicad la versión final** de vuestro prototipo de Figma Make.
+2. **Abrid vuestro enlace en una ventana de incógnito**: si se ve sin iniciar sesión, está bien. Es el que usará la pareja que os revise.
+3. Si queréis, **añadid en vuestro hueco una captura** de vuestro frame rediseñado. Si no, la pareja que os revise tiene el enlace de vuestro Figma de la ronda 1 para comparar.
+4. ¿El tablero no va? Mandad número de pareja, dolor y los dos enlaces por email al profesor (dirección en la slide de entrega).
 
 **Práctica 3: revisáis el prototipo de otra pareja.** La 1 revisa el de la 2, la 2 el de la 3… y la última el de la 1. Sacáis su enlace del tablero y a intentar romperlo, con el prompt de revisión (`05`) y la checklist (`04`). El informe (`06`) es sobre el prototipo que revisáis. Antes de la puesta en común, dejad en su hueco del tablero un post-it con vuestros tres hallazgos principales.
 
-**Puesta en común (90 segundos por pareja, en orden de dolor del 1 al 5, proyectando desde el tablero):**
+**Puesta en común (90 segundos por pareja, en orden de dolor del 1 al 5; el profesor proyecta vuestro hueco del tablero):**
 
 1. Vuestro dolor y cómo lo habéis resuelto.
 2. Lo que encontró la pareja que os revisó.
