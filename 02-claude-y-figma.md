@@ -18,59 +18,51 @@ Un MCP es un enchufe para que la IA use otra herramienta. Como un USB-C: el mism
 
 ⚠️ Claude gratis tiene pocos mensajes (Anthropic no da cifra; terceros estiman de 15 a 40 cada 5 horas). Prompts concretos y pocos; si se acaban, sigue con la cuenta de tu pareja.
 
-## Cómo pedirlo: las 5 C
+## Cómo escribir tu prompt: las 5 C
+
+Los prompts los escribes tú. Nada de copiar y pegar: es justo lo que vienes a practicar.
 
 - **Cabeza:** quién eres y qué quieres.
-- **Contexto:** el usuario, el objetivo y tu sistema de diseño.
-- **Consultar:** «Antes de empezar, pregúntame lo que necesites».
-- **Comprobar:** qué tiene que cumplir. Lo miras tú en Figma, no le pidas capturas: con Figma gratis tienes unas 20 lecturas al mes (crear no las gasta). Por eso los prompts acaban en «Sin capturas de comprobación».
+- **Contexto:** para quién es, qué problema resuelve y con qué sistema de diseño.
+- **Consultar:** que te pregunte lo que le falte antes de empezar.
+- **Comprobar:** qué tiene que cumplir para estar bien. Lo miras tú en Figma.
 - **Cortar:** una cosa cada vez. Nada de «rediséñalo todo».
 
-## Práctica 1: elige un prompt
+### Antes de enviar, ¿tu prompt tiene…?
 
-Pega antes el enlace de tu copia. El archivo trae estos componentes: **Fila de campo**, **Insignia de confianza**, **Alerta**, **Botón** y **Chip de aviso**.
+- [ ] El enlace de tu copia del Figma, al principio
+- [ ] Quién es el usuario
+- [ ] Qué quieres crear o qué dolor resuelves
+- [ ] Que use los componentes y variables que ya hay: **Fila de campo**, **Insignia de confianza**, **Alerta**, **Botón** y **Chip de aviso**
+- [ ] Qué tiene que cumplir para estar bien
+- [ ] «Antes de empezar, pregúntame lo que necesites»
+- [ ] Una sola cosa
 
-**Una variante**
-```
-Crea en este archivo una variante nueva de la Fila de campo, "Con alerta pendiente": borde ámbar y un aviso corto debajo del valor, usando los componentes y variables que ya existen. Sin capturas de comprobación.
-```
+⚠️ No le pidas capturas para comprobarlo: con Figma gratis tienes unas 20 lecturas al mes (crear no las gasta). Termina con «Sin capturas de comprobación».
 
-**Una pantalla nueva**
-```
-Crea en la página Editor un frame nuevo de 1440x900 llamado "Editor · todo revisado". Usa instancias de la Fila de campo en variante Revisada y un Botón primario "Imprimir". Solo componentes y variables que ya existen. Sin capturas de comprobación.
-```
+### Ejemplo de forma, no para copiar
 
-**Un estado vacío**
-```
-Crea un frame "Editor · sin campos" para cuando la IA no ha podido leer ningún campo del documento: un mensaje, una línea que explique qué hacer y un Botón primario "Volver a escanear". Usa los componentes y variables que ya existen. Sin capturas de comprobación.
-```
+Para que veas cómo suena uno con las 5 C, sobre algo que no es ninguno de los dolores:
 
-**Un aviso nuevo**
-```
-Añade al componente Alerta una variante nueva para "Sin conexión con la impresora", con las variables de aviso y la misma estructura que las otras variantes. Sin capturas de comprobación.
-```
+> *[enlace de mi copia]* Soy diseñador de producto y quiero el estado vacío de la lista de campos: lo que ve un técnico de ITV cuando la IA no ha podido leer ningún dato. Crea un solo frame nuevo al lado del Editor, con los componentes y variables que ya hay. Tiene que quedar claro qué ha pasado y qué puede hacer. Antes de empezar, pregúntame lo que necesites. Sin capturas de comprobación.
+
+## Práctica 1: lo escribes tú
+
+Pide a Claude que cree **una cosa pequeña** en tu copia. Ideas: una variante nueva de un componente, una pantalla con piezas que ya existen o un aviso nuevo. El estado vacío ya está pillado por el ejemplo.
 
 Abre Figma y míralo. ¿Ha usado tus componentes o se ha inventado otros?
 
 ## Ronda 1: rediseña tu dolor
 
-Rellena los dos huecos con tu fila del encargo (documento 1):
+Escribe tu prompt con tu fila del encargo (documento 1):
 
-```
-[pega aquí el enlace a tu copia del Figma]
+- Tu **«Le duele…»** es lo que quieres resolver.
+- Tu **«Sabremos que está resuelto si…»** es lo que tiene que cumplir.
+- Pide **un solo frame nuevo** al lado del Editor, sin tocar el original.
 
-CABEZA: Soy diseñador de producto. Quiero que rediseñes en este archivo de Figma el editor de revisión de la Tarjeta ITV. Después lo retocaré yo a mano.
+Repasa la lista de arriba y envíalo.
 
-CONTEXTO: Un técnico de ITV experto revisa de 40 a 70 campos que propone una IA, con el documento original al lado, en Windows a 1280 px o más, con atajos de teclado. Nos toca resolver este dolor: [tu «Le duele…»]. No se toca el sistema de diseño de Mint.
-
-CONSULTAR: Solo si te falta algo imprescindible, hazme una pregunta antes de crear. Si no, empieza.
-
-COMPROBAR: El rediseño tiene que cumplir esto: [tu «Sabremos que está resuelto si…»]. Usa solo los componentes y variables que ya existen (Fila de campo, Insignia de confianza, Alerta, Botón, Chip de aviso); no inventes colores ni componentes. Sin capturas de comprobación. Al terminar, dime qué has creado y qué no has podido resolver con el sistema.
-
-CORTAR: Crea un solo frame nuevo "Editor · rediseño" al lado del Editor, sin tocar el original. Solo el editor.
-```
-
-Luego **retócalo a mano**: decides tú, no Claude. ¿Otro cambio? Uno cada vez: *«En el frame Editor · rediseño, cambia solo [esto]. Sin capturas de comprobación.»*
+Luego **retócalo a mano**: decides tú, no Claude. ¿Otro cambio? Uno cada vez: di en qué frame y qué cambia, y nada más.
 
 ## Tus datos
 

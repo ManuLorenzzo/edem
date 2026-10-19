@@ -32,18 +32,9 @@ En las **casillas rosas de su columna del tablero** (la de la pareja que revisas
 
 ## Opcional: que Claude te dé ideas
 
-En una **conversación nueva** (la IA que lo hizo tiende a defenderlo), con capturas o con su enlace:
+En una **conversación nueva** (la IA que lo hizo tiende a defenderlo), con capturas o con su enlace. El prompt lo escribes tú: dile qué es y cuál era su dolor, **pídele que lo revise con las cinco preguntas** de arriba y que te dé las 3 cosas que más le faltan.
 
-```
-Te paso [capturas / el enlace] de un prototipo: la pantalla donde un técnico de ITV revisa los datos que propone una IA antes de imprimir la Tarjeta ITV. Su dolor era: [su fila del encargo].
-Revísalo como ese técnico, que no se fía de la IA, y dime las 3 cosas más importantes que le faltan para ser una app de verdad. Cada una tiene que señalar algo concreto de lo que te paso. Si algo no lo puedes comprobar, dilo.
-```
-
-Y con lo que te parezca raro:
-
-```
-Demuéstralo: en qué pantalla y en qué elemento lo ves. Del 1 al 5, ¿cuánta seguridad tienes? Si al mirarlo otra vez no era un problema, dilo.
-```
+Con lo que te parezca raro, **pídele que te demuestre cada fallo**: en qué pantalla, en qué elemento y con cuánta seguridad.
 
 Lo que diga Claude se comprueba con clics, no se copia. Lo que no sepa demostrar, fuera.
 

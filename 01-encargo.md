@@ -30,6 +30,7 @@ Cómo se arregla en pantalla lo decides tú: aquí el experto en diseño eres t�
 
 - En **tu copia del Figma de Mint Scan, página Editor** (botón 3 de la página de la clase; cómo duplicarlo, en el documento 2).
 - **Un frame, un dolor.** No tiene que quedar perfecto.
+- **Los prompts los escribes tú**, con las 5 C (documento 2).
 - Escritorio, **1280 px** o más, con atajos de teclado. Nada de móvil. Se imprime sobre un formulario oficial preimpreso.
 - **No toques el sistema de diseño** (colores, tipografías, componentes). Si no te convence, dilo en la puesta en común.
 

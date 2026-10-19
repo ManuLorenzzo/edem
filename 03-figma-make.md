@@ -4,20 +4,16 @@ Claude, con el conector, **solo diseña en Figma**. **Figma Make** es otra herra
 
 ## Ronda 2 · Hazlo funcionar
 
-1. En Figma, **selecciona tu frame «Editor · rediseño» y cópialo**. Pegar el enlace del archivo **no sirve**: Make no lo lee.
+1. En Figma, **selecciona el frame de tu rediseño y cópialo**. Pegar el enlace del archivo **no sirve**: Make no lo lee.
 2. Abre Figma Make y **pega el frame en su chat**. Si da error al pegar (fallo conocido), usa «Attach design».
 3. Deja el **modelo por defecto** (los otros gastan más créditos).
-4. Pega este prompt con tu dolor y envíalo:
+4. **Escribe tu prompt** y envíalo. Tiene que decir:
+   - **Qué tiene que pasar al hacer clic** en lo que resuelve tu dolor, y que el botón Imprimir lleve a una pantalla de éxito.
+   - **Qué datos de ejemplo usar:** los del frame, sin inventar campos.
+   - **Que no cambie el diseño:** colores, letras, espaciados y componentes, tal cual.
+   - Que al terminar te diga qué no ha podido respetar.
 
-```
-CABEZA: Convierte el frame pegado en un prototipo navegable de 2 pantallas para un técnico de ITV.
-
-CONTEXTO: (1) El editor del frame: el técnico revisa de 40 a 70 campos que propone una IA, cada uno con confianza (alta, media, baja), documento de origen y, a veces, una alerta. Se puede marcar un campo como revisado y aceptar o corregir una alerta. Un contador dice cuántos campos faltan. Este diseño resuelve este dolor y tiene que poder probarse con clics: [tu dolor]. El botón Imprimir lleva a (2) una pantalla de éxito con la vista previa de la tarjeta y la confirmación. Escritorio, 1280 px o más. Usa los datos del frame.
-
-COMPROBAR: Respeta el frame: tipografía, espaciados, colores (verde #4AB586, confianza alta #4AB586, media #E89672, baja #FF6961, Inter, JetBrains Mono) y estados. No inventes campos, colores ni componentes. No dejes imprimir con alertas sin decidir. Al terminar, dime qué no has podido respetar y qué datos te has inventado.
-
-CORTAR: Solo estas 2 pantallas.
-```
+   Aquí sáltate la C de Consultar: cada respuesta de Make gasta créditos.
 
 5. Tarda un poco. Mientras, apunta qué clics vas a hacer para probar tu dolor. Luego, pruébalo.
 
@@ -40,13 +36,11 @@ Con Figma gratis te llegan para **unos 2 prompts al día**. Así que:
 
 ## Ronda 3 · El cliente cambia de idea
 
-El cambio te lo cuento en pantalla. Pídeselo a Make **en el mismo chat**, no en uno nuevo ni en Claude:
+El cambio te lo cuento en pantalla. Pídeselo a Make **en el mismo chat**, no en uno nuevo ni en Claude. Tu prompt tiene que decir:
 
-```
-El cliente pide este cambio: [lo que pide el cliente, de la slide].
-
-Aplícalo a nuestro dolor: [tu dolor]. Cambia solo lo necesario y no rompas lo que ya funcionaba: marcar campos como revisados, el contador, las alertas y el paso a la pantalla de éxito. Al terminar, dime qué has cambiado y qué no has podido resolver.
-```
+- **Qué cambia:** lo que pide el cliente, aplicado a tu dolor.
+- **Qué no se puede romper:** lo que ya funcionaba (marcar campos, el contador, los avisos, imprimir).
+- **Que te diga qué ha cambiado** al terminar.
 
 Repite un clic de los de antes: ¿sigue funcionando? Luego **vuelve a publicar** con el mismo botón. El enlace no cambia: no hace falta pegarlo otra vez.
 
