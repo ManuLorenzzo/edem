@@ -133,7 +133,7 @@ Cómo compartir la copia del Figma y cómo publicar en Make: `03-vias-prototipo.
 
 1. **Publicad la versión final** de vuestro prototipo de Figma Make.
 2. **Abrid vuestro enlace en una ventana de incógnito**: si se ve sin iniciar sesión, está bien. Es el que usará la pareja que os revise.
-3. Si queréis, **añadid en vuestro hueco una captura** de vuestro frame rediseñado. Si no, la pareja que os revise tiene el enlace de vuestro Figma de la ronda 1 para comparar.
+3. La pareja que os revise tiene el enlace de vuestro Figma de la ronda 1 para comparar con el prototipo.
 4. ¿El tablero no va? Mandad número de pareja, dolor y los dos enlaces por email al profesor (dirección en la slide de entrega).
 
 **Práctica 3: revisáis el prototipo de otra pareja.** La 1 revisa el de la 2, la 2 el de la 3… y la última el de la 1. Sacáis su enlace del tablero y a intentar romperlo, con el prompt de revisión (`05`) y la checklist (`04`). El informe (`06`) es sobre el prototipo que revisáis. Antes de la puesta en común, dejad en su hueco del tablero un post-it con vuestros tres hallazgos principales.

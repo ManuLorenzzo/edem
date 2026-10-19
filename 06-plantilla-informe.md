@@ -7,7 +7,7 @@ Es sobre el prototipo **de la otra pareja** que revisasteis en la práctica 3 (l
 **Pareja que revisa:** ______  **Pareja revisada:** ______
 **Su dolor (del brief):** ______________________
 **Vía que usó:** Figma Make / artifact de Claude / Claude Design / prototipo de Figma
-**Enlace (del tablero) o capturas:** ______________________
+**Enlace (del tablero):** ______________________
 
 ---
 
@@ -27,7 +27,7 @@ Mirad su fila del brief, columna «Sabremos que está resuelto si…», y probad
 
 ## 2 · Lo que la IA rompió o se inventó
 
-Comparad con el brief y con la captura de su frame que hay en el tablero (pregunta 5 de la checklist, Fidelidad). Lo que hayáis conseguido romper con clics, también aquí. Usad lo que encontrasteis haciendo de técnico y, si lo usasteis, con el prompt de revisión.
+Comparad con el brief y con su Figma de la ronda 1 (el enlace está en el tablero) (pregunta 5 de la checklist, Fidelidad). Lo que hayáis conseguido romper con clics, también aquí. Usad lo que encontrasteis haciendo de técnico y, si lo usasteis, con el prompt de revisión.
 
 | Qué | Dónde | ¿Rompió o inventó? |
 |---|---|---|
