@@ -1,4 +1,4 @@
-# 5 · Chuleta para el lunes
+# 5 · Chuleta para tu día a día
 
 Datos verificados el 19 de octubre de 2026. Planes y límites cambian cada mes: compruébalos antes de fiarte.
 
