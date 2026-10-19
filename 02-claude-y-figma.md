@@ -2,7 +2,7 @@
 
 Objetivo: **escribes en Claude y aparece en tu Figma**, con tus componentes y tus variables. Basta una cuenta por pareja.
 
-## Conectar (5 minutos)
+## Conectar
 
 1. **Lo más fácil: pídeselo a tu IA.** Escríbele «Conéctate al MCP de Figma y guíame» y te lleva paso a paso.
 2. En **[claude.ai](https://claude.ai)** (cuenta gratis con tu email o con Google; ⚠️ puede pedir un móvil, si no quieres darlo usa la de tu pareja): **Ajustes > Conectores > Descubrir**, busca **Figma** y pulsa **Conectar**.
@@ -14,7 +14,7 @@ Claude te pedirá permiso en cada paso: pulsa **Permitir una vez** y mira qué v
 
 Un MCP es un enchufe para que la IA use otra herramienta. Como un USB-C: el mismo conector para muchos aparatos.
 
-⚠️ Probado con Claude de pago y Figma gratis. **Con Claude gratis, sin probar.** Si no crea nada: comprueba que has pegado el enlace de **tu copia** y que la cuenta conectada es la dueña. Si sigue sin ir en 5 minutos, únete a una pareja con Claude de pago o pídeme que lance tu prompt en pantalla.
+⚠️ Probado con Claude de pago y Figma gratis. **Con Claude gratis, sin probar.** Si no crea nada: comprueba que has pegado el enlace de **tu copia** y que la cuenta conectada es la dueña. Si sigue sin ir, únete a una pareja con Claude de pago o pídeme que lance tu prompt en pantalla.
 
 ⚠️ Claude gratis tiene pocos mensajes (Anthropic no da cifra; terceros estiman de 15 a 40 cada 5 horas). Prompts concretos y pocos; si se acaban, sigue con la cuenta de tu pareja.
 
@@ -26,7 +26,7 @@ Un MCP es un enchufe para que la IA use otra herramienta. Como un USB-C: el mism
 - **Comprobar:** qué tiene que cumplir. Lo miras tú en Figma, no le pidas capturas: con Figma gratis tienes unas 20 lecturas al mes (crear no las gasta). Por eso los prompts acaban en «Sin capturas de comprobación».
 - **Cortar:** una cosa cada vez. Nada de «rediséñalo todo».
 
-## Práctica 1: elige un prompt (20 minutos)
+## Práctica 1: elige un prompt
 
 Pega antes el enlace de tu copia. El archivo trae estos componentes: **Fila de campo**, **Insignia de confianza**, **Alerta**, **Botón** y **Chip de aviso**.
 
@@ -63,7 +63,7 @@ CABEZA: Soy diseñador de producto. Quiero que rediseñes en este archivo de Fig
 
 CONTEXTO: Un técnico de ITV experto revisa de 40 a 70 campos que propone una IA, con el documento original al lado, en Windows a 1280 px o más, con atajos de teclado. Nos toca resolver este dolor: [tu «Le duele…»]. No se toca el sistema de diseño de Mint.
 
-CONSULTAR: Solo si te falta algo imprescindible, hazme una pregunta antes de crear. Si no, empieza: tenemos 10 minutos.
+CONSULTAR: Solo si te falta algo imprescindible, hazme una pregunta antes de crear. Si no, empieza.
 
 COMPROBAR: El rediseño tiene que cumplir esto: [tu «Sabremos que está resuelto si…»]. Usa solo los componentes y variables que ya existen (Fila de campo, Insignia de confianza, Alerta, Botón, Chip de aviso); no inventes colores ni componentes. Sin capturas de comprobación. Al terminar, dime qué has creado y qué no has podido resolver con el sistema.
 

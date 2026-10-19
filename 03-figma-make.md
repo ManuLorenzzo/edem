@@ -19,7 +19,7 @@ COMPROBAR: Respeta el frame: tipografía, espaciados, colores (verde #4AB586, co
 CORTAR: Solo estas 2 pantallas.
 ```
 
-5. Tarda unos 3 minutos. Mientras, apunta qué clics vas a hacer para probar tu dolor. Luego, pruébalo.
+5. Tarda un poco. Mientras, apunta qué clics vas a hacer para probar tu dolor. Luego, pruébalo.
 
 ## Publica y copia el enlace
 
@@ -52,6 +52,6 @@ Repite un clic de los de antes: ¿sigue funcionando? Luego **vuelve a publicar**
 
 ## Plan B: si Make falla o te quedas sin créditos
 
-No pierdas más de 5 minutos. Usa el **prototipo de Figma de siempre**: en la pestaña **Prototipo**, conecta el botón Imprimir del editor con una pantalla de éxito y pulsa Presentar. No gasta créditos.
+No te atasques: usa el **prototipo de Figma de siempre**: en la pestaña **Prototipo**, conecta el botón Imprimir del editor con una pantalla de éxito y pulsa Presentar. No gasta créditos.
 
 Para el tablero: **Compartir prototipo**, «Cualquiera con el enlace puede ver» ⚠️, y pega el enlace.

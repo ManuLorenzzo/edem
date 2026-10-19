@@ -1,6 +1,6 @@
 # 4 · ¿Qué le falta?
 
-Práctica 3: 15 minutos, por parejas. No hace falta saber programar: todo se comprueba con clics.
+Práctica 3, por parejas. No hace falta saber programar: todo se comprueba con clics.
 
 ## 1 · Abre el prototipo de la pareja siguiente
 

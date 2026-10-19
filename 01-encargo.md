@@ -33,7 +33,7 @@ Cómo se arregla en pantalla lo decides tú: aquí el experto en diseño eres t�
 - Escritorio, **1280 px** o más, con atajos de teclado. Nada de móvil. Se imprime sobre un formulario oficial preimpreso.
 - **No toques el sistema de diseño** (colores, tipografías, componentes). Si no te convence, dilo en la puesta en común.
 
-## Las 3 rondas (unos 15 minutos cada una)
+## Las 3 rondas
 
 | Ronda | Qué haces | Qué pegas en tu hueco del tablero |
 |---|---|---|
