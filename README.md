@@ -8,7 +8,7 @@ Todo lo que necesitas para la sesión de hoy y para repetirlo el lunes en tu tra
 
 ## Para empezar
 
-**Tablero de la clase:** [enlace del tablero, pendiente]
+**Tablero de la clase:** https://www.figma.com/board/Ut7oVd9r7FqT8lzabAeUqX/FigJam-EDEM
 
 **Figma de Mint Scan (duplícalo en tus borradores):** https://www.figma.com/design/ogBGVM8Qvr7OKLsyEIQyzd
 
