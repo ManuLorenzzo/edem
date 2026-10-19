@@ -4,7 +4,7 @@ Máster en Diseño UX/UI, Estrategia Digital e IA · EDEM · 21 de octubre de 20
 
 Todo lo que necesitas para la sesión de hoy y para repetirlo el lunes en tu trabajo. Caso real (Mint Scan), datos inventados.
 
-**Todo en una página:** https://manulorenzzo.github.io/edem-vibe-coding-kit/
+**Todo en una página:** https://manulorenzzo.github.io/edem
 
 ## Para empezar
 
