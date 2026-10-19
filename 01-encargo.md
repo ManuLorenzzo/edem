@@ -30,7 +30,7 @@ Cómo se arregla en pantalla lo decides tú: aquí el experto en diseño eres t�
 
 - En **tu copia del Figma de Mint Scan, página Editor** (botón 3 de la página de la clase; cómo duplicarlo, en el documento 2).
 - **Un frame, un dolor.** No tiene que quedar perfecto.
-- Escritorio, **1280 px** o más. Nada de móvil.
+- Escritorio, **1280 px** o más, con atajos de teclado. Nada de móvil. Se imprime sobre un formulario oficial preimpreso.
 - **No toques el sistema de diseño** (colores, tipografías, componentes). Si no te convence, dilo en la puesta en común.
 
 ## Las 3 rondas (unos 15 minutos cada una)
