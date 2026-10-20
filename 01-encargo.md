@@ -47,3 +47,5 @@ Al tablero van **solo enlaces**, nada de capturas. Lo proyecto yo desde mi port�
 Antes de la práctica 3, abre tu enlace en una **ventana de incógnito**: si se ve sin iniciar sesión, está bien. ¿El tablero no va? Mándame tu número de pareja y tus enlaces por email.
 
 Después viene la práctica 3: revisas el prototipo de otra pareja (documento 4).
+
+**Guardad vuestras pantallas de Figma:** al día siguiente las usaréis en la clase de accesibilidad.

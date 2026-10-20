@@ -76,3 +76,7 @@ claude mcp add --transport http figma https://mcp.figma.com/mcp
 ```
 
 Añade `--scope user` para tenerlo en todos tus proyectos y escribe `/mcp` para iniciar sesión en Figma.
+
+## ¿Y con ChatGPT?
+
+ChatGPT también tiene una app de Figma, pero hoy **no está disponible en la UE** y solo crea diagramas en FigJam y presentaciones en Figma Slides (no diseños en Figma ni prototipos en Make). Fuera de la UE se activa en ChatGPT, en Apps y conectores. Verificado el 20 de octubre de 2026: cambia rápido.
