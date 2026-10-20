@@ -1,4 +1,4 @@
-# Kit · Vibe coding con Figma Make y Claude
+# Kit · Vibe coding y tipos de IA para producto
 
 EDEM · Máster en Diseño UX/UI, Estrategia Digital e IA · 21 de octubre de 2026 · Manu Lorenzo
 
