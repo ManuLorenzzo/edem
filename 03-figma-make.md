@@ -22,17 +22,17 @@ Claude, con el conector, **solo diseña en Figma**. **Figma Make** es otra herra
 ⚠️ Los nombres de los botones pueden cambiar o salir en inglés.
 
 1. Pulsa **Publicar** (*Publish*), arriba a la derecha. ⚠️
-2. Con Figma gratis te pide publicarlo también en la **Community de Figma**: acepta. Queda público y no pasa nada, los datos son inventados. ⚠️ La primera vez puede pedirte crear un perfil (un minuto).
+2. Con la cuenta de estudiante puedes tener **un archivo de Make publicado**: publicad desde la cuenta de quien construye. Si esa cuenta ya tiene otro publicado, publicad desde la de tu pareja.
 3. Copia la dirección que acaba en **`.figma.site`** con el botón de copiar enlace. ⚠️
 4. Ábrela en una ventana de incógnito: si se ve sin iniciar sesión, está bien.
 5. Pégala en tu hueco del tablero. **Solo el enlace, sin capturas.**
 
-## Créditos: un prompt, bien hecho
+## Un chat por pareja
 
-Con Figma gratis te llegan para **unos 2 prompts al día**. Así que:
+Con tu cuenta de estudiante tienes más margen que en el plan gratis: **3.000 créditos al mes**, y un prompt con tu frame gasta unos 75. Aun así:
 
-- **Una persona de la pareja construye**: un prompt en la ronda 2 y otro en la ronda 3, en el mismo chat.
-- **Los créditos de tu compañero son la reserva.** ⚠️ Compártele el archivo de Make con permiso de edición y comprueba que puede escribir antes de necesitarlo.
+- **Una persona de la pareja construye**: un prompt en la ronda 2 y otro en la ronda 3, en el mismo chat. Así el enlace no cambia.
+- **Pocos prompts y bien hechos**: cada respuesta tarda un rato.
 
 ## Ronda 3 · El cliente cambia de idea
 
@@ -44,8 +44,8 @@ El cambio te lo cuento en pantalla. Pídeselo a Make **en el mismo chat**, no en
 
 Repite un clic de los de antes: ¿sigue funcionando? Luego **vuelve a publicar** con el mismo botón. El enlace no cambia: no hace falta pegarlo otra vez.
 
-## Plan B: si Make falla o te quedas sin créditos
+## Plan B: si Make falla
 
-No te atasques: usa el **prototipo de Figma de siempre**: en la pestaña **Prototipo**, conecta el botón Imprimir del editor con una pantalla de éxito y pulsa Presentar. No gasta créditos.
+Primero, prueba en la cuenta de tu pareja o en el portátil de la pareja de al lado. Si Make sigue sin ir, no te atasques: usa el **prototipo de Figma de siempre**: en la pestaña **Prototipo**, conecta el botón Imprimir del editor con una pantalla de éxito y pulsa Presentar.
 
 Para el tablero: **Compartir prototipo**, «Cualquiera con el enlace puede ver» ⚠️, y pega el enlace.

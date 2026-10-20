@@ -5,18 +5,16 @@ Objetivo: **escribes en Claude y aparece en tu Figma**, con tus componentes y tu
 ## Conectar
 
 1. **Lo más fácil: pídeselo a tu IA.** Escríbele «Conéctate al MCP de Figma y guíame» y te lleva paso a paso.
-2. En **[claude.ai](https://claude.ai)** (cuenta gratis con tu email o con Google; ⚠️ puede pedir un móvil, si no quieres darlo usa la de tu pareja): **Ajustes > Conectores > Descubrir**, busca **Figma** y pulsa **Conectar**.
+2. En **[claude.ai](https://claude.ai)**, con tu cuenta de Claude Pro: **Ajustes > Conectores > Descubrir**, busca **Figma** y pulsa **Conectar**.
 3. Se abre Figma: inicia sesión y pulsa **Aceptar y permitir el acceso**.
-4. **Duplica el Figma de Mint Scan** (botón 3 de la página de la clase) **con la misma cuenta de Figma que has conectado**: menú del nombre del archivo > **Duplicar** ⚠️ (el texto del menú puede variar un poco). Si lo duplicas con otra cuenta, Claude no podrá crear nada.
+4. **Duplica el Figma de Mint Scan** (botón 3 de la página de la clase) **con la misma cuenta de Figma que has conectado** (la de estudiante): menú del nombre del archivo > **Duplicar** ⚠️ (el texto del menú puede variar un poco). Si lo duplicas con otra cuenta, Claude no podrá crear nada.
 5. En tu copia, **Compartir > Copiar enlace** y pega ese enlace en Claude al principio de cada petición.
 
 Claude te pedirá permiso en cada paso: pulsa **Permitir una vez** y mira qué va a tocar.
 
 Un MCP es un enchufe para que la IA use otra herramienta. Como un USB-C: el mismo conector para muchos aparatos.
 
-⚠️ Probado con Claude de pago y Figma gratis. **Con Claude gratis, sin probar.** Si no crea nada: comprueba que has pegado el enlace de **tu copia** y que la cuenta conectada es la dueña. Si sigue sin ir, únete a una pareja con Claude de pago o pídeme que lance tu prompt en pantalla.
-
-⚠️ Claude gratis tiene pocos mensajes (Anthropic no da cifra; terceros estiman de 15 a 40 cada 5 horas). Prompts concretos y pocos; si se acaban, sigue con la cuenta de tu pareja.
+¿No crea nada? Comprueba que has pegado el enlace de **tu copia** y que la cuenta conectada es la dueña. Si sigue sin ir, seguid con la cuenta de tu pareja o en el portátil de la pareja de al lado, donde sí funcione, y avísame.
 
 ## Cómo escribir tu prompt: las 5 C
 
@@ -38,7 +36,7 @@ Los prompts los escribes tú. Nada de copiar y pegar: es justo lo que vienes a p
 - [ ] «Antes de empezar, pregúntame lo que necesites»
 - [ ] Una sola cosa
 
-⚠️ No le pidas capturas para comprobarlo: con Figma gratis tienes unas 20 lecturas al mes (crear no las gasta). Termina con «Sin capturas de comprobación».
+No hace falta que Claude haga capturas para comprobarlo: lo miras tú en Figma y va más rápido. Termina con «Sin capturas de comprobación».
 
 ### Ejemplo de forma, no para copiar
 
@@ -67,7 +65,7 @@ Luego **retócalo a mano**: decides tú, no Claude. ¿Otro cambio? Uno cada vez:
 ## Tus datos
 
 Claude: puedes impedir que entrene con tus chats en **Ajustes > Privacidad**.
-Figma **entrena con tus archivos por defecto** en el plan gratis y en Professional (en Education, no). Por eso hoy solo usamos datos inventados.
+Figma: con tu cuenta de estudiante **no entrena con tus archivos**; en el plan gratis y en Professional, sí, por defecto. Aun así, hoy solo usamos datos inventados.
 
 ## Si usas Claude Code
 

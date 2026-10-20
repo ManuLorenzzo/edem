@@ -22,17 +22,17 @@ Dos familias: **generalistas** (Claude, ChatGPT, Gemini), para todo, también pa
 | Quiero… | Usa… | Ojo con… |
 |---|---|---|
 | **Rediseñar una pantalla** | Claude conectado a Figma: crea en tu archivo y tú lo retocas. Para explorar fuera: Claude Design o Google Stitch | Que dibuje copias en vez de usar tus componentes. Claude Design no exporta a Figma; Stitch, sí |
-| **Un prototipo navegable** | Figma Make, a partir de tu frame. Plan B: el prototipo de Figma de siempre | Créditos: en gratis, unos 2 prompts al día. Para publicar, en gratis tiene que ser público |
+| **Un prototipo navegable** | Figma Make, a partir de tu frame. Plan B: el prototipo de Figma de siempre | Créditos: un prompt con tu frame gasta unos 75 (cuenta de estudiante: 3.000 al mes; plan gratis: unos 2 prompts al día). En el plan gratis, publicar lo hace público en la Community |
 | **Iterar con un cambio** | Figma Make, en el mismo chat | Que rehaga en vez de añadir y rompa lo que funcionaba. Prepara el prompt antes con Claude: no gasta créditos de Make |
 | **Revisar antes de producción** | Claude en una conversación nueva, con capturas o el enlace | Hallazgos inventados: pídele «Demuéstralo». El contraste, con WebAIM, no a ojo |
-| **Research de mercado y competencia** | Deep Research de Gemini (gratis) o de ChatGPT (gratis, limitado) | Fuentes flojas: abre y comprueba al menos 3. En Claude gratis no está |
-| **Sintetizar entrevistas** | Claude, con un Project por estudio (gratis, hasta 5) | Datos personales: anonimiza antes. Pide citas literales y compruébalas |
-| **Documentar para desarrollo** | Claude con el conector de Figma | Gasta lecturas: con Figma gratis, unas 20 al mes; con Education, 200 al día |
+| **Research de mercado y competencia** | Research de Claude (está en Pro, el que tienes), Deep Research de Gemini (gratis) o de ChatGPT (gratis, limitado) | Fuentes flojas: abre y comprueba al menos 3 |
+| **Sintetizar entrevistas** | Claude, con un Project por estudio | Datos personales: anonimiza antes. Pide citas literales y compruébalas |
+| **Documentar para desarrollo** | Claude con el conector de Figma | Gasta lecturas: con la cuenta de estudiante, 200 al día; con Figma gratis, solo 20 al mes |
 
 Antes de elegir, cuatro preguntas:
 
 - **Valor:** ¿me ahorra trabajo o solo me lo cambia de sitio?
-- **Datos:** ¿lo subiría si mi cliente estuviera mirando? (Figma entrena con tus archivos por defecto en el plan gratis; en Claude lo puedes desactivar en Ajustes > Privacidad.)
+- **Datos:** ¿lo subiría si mi cliente estuviera mirando? (Figma entrena con tus archivos por defecto en el plan gratis, no en el de estudiante; en Claude lo puedes desactivar en Ajustes > Privacidad.)
 - **Riesgos:** ¿qué pasa si se equivoca y nadie lo revisa?
 - **Viabilidad:** ¿me la puedo permitir cada semana, no solo para probarla?
 
